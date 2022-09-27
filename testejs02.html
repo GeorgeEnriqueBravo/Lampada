@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Teste JavaScript 2</title>
+	<meta charset="UTF-8"/> <!-- Isso é pra evitar que o site tenha problemas com palavras acentuadas. -->
+	<script>
+		/* No function abaixo o "acendeLampada" é o nome da função. Poderia ser qualquer nome. O nome deve ter todas as letras minúsculas, não ter acentuações, nem traços e nem underlines. A sintaxe mais aceita pela maioria dos programadores é tudo em letras minúsculas e só usamos maiúscula quando tem uma alteração de palavra para próxima. É importante lembrar que no JavaScript existe diferença de lestras maiúsculas e minúsculas. */
+		/* Tudo que estiver entre parenteses são parâmetros e tudo entre colchetes são códigos. */
+		function acendeLampada() {
+			/* alert ("Lâmpada Acendeu"); */
+			document.getElementById("luz").src = "_imagens/lampada-acesa.jpg";
+		}
+		function apagaLampada() {
+			document.getElementById("luz").src="_imagens/lampada-apagada.jpg";
+		}
+		function quebraLampada() {
+			document.getElementById("luz").src="_imagens/lampada-quebrada.jpg";
+		}
+	</script>
+</head>
+<body>
+	<h1>Acenda a lâmpada</h1>
+	<img src="_imagens/lampada-apagada.jpg" id="luz" onmousemove="acendeLampada()" onmouseout="apagaLampada()" onclick="quebraLampada()"/> <!-- Para alterar um elemento é necessário darmos um id pra ele. -->
+</body>
+</html>
