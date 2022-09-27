@@ -3,7 +3,8 @@
 Esse exercício consiste em 3 coisas:
 1. Arraste o mouse por cima da lâmpada para ligar
 2. Remova o mouse de cima da lâmpada para apagar
-3. Clique na lâmpada para quebrar
+3. Clique na lâmpada para quebrá-la
+4. Clique no martelo para consertar
 
 ---
 
