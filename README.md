@@ -7,8 +7,10 @@ Esse exercício consiste em 3 coisas:
 
 ---
 
-Você pode acessar a página do projeto neste link:
-* https://georgeenriquebravo.github.io/Lampada/
+Você pode acessar a página do projeto neste link: <br/>
+<a href="https://georgeenriquebravo.github.io/Lampada/" target="_blank">
+    https://georgeenriquebravo.github.io/Lampada/
+</a>
 
 ---
 
