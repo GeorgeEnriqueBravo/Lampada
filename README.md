@@ -1,5 +1,5 @@
 # Bem vindo ao exercício Lâmpada!
-### Eu desenvolvi uma página em HTML para um pequeno exercício de uso de Javascript.
+### Eu desenvolvi uma página em HTML para um pequeno exercício de uso de JavaScript.
 Esse exercício consiste em 3 coisas:
 1. Arraste o mouse por cima da lâmpada para ligar
 2. Remova o mouse de cima da lâmpada para apagar
