@@ -8,7 +8,7 @@ Esse exercício consiste em 4 coisas:
 
 ---
 
-Você pode acessar a página do projeto 
+Você pode acessar a página do meu exercício 
 <a href="https://georgeenriquebravo.github.io/Lampada/" target="_blank">
     clicando aqui
 </a>
