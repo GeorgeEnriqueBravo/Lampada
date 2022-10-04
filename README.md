@@ -4,7 +4,7 @@ Esse exercício consiste em 4 coisas:
 1. Arraste o mouse por cima da lâmpada para ligar
 2. Remova o mouse de cima da lâmpada para apagar
 3. Clique na lâmpada para quebrá-la
-4. Clique no &ensp;<img width="2.5%" alt="martelo" src="imagens/marteloPng.png"/>&ensp; para consertar
+4. Clique no &ensp;<img width="2.5%" alt="🔨" src="imagens/marteloPng.png"/>&ensp; para consertar
 
 ---
 
